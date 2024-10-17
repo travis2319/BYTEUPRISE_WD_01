@@ -32,7 +32,7 @@ const Navbar = () => {
           className=" flex justify-center items-center"
         >
           <motion.a
-            href="src\assets\kevinRushLogo.png"
+            href="src\assets\TRAVIS-FERNANDES.pdf"
             download
             className=" hover:bg-gray-800 text-grey-800 font-bold my-2 mx-10 rounded inline-flex items-center"
           >
